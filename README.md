@@ -1,4 +1,4 @@
-# Analyzing COVID-19 Cases and Vaccinations 
+# ETL and Analytical SQL Project: COVID-19 Global Dataset
 
 **Objective**
 Explore global COVID-19 trends by analyzing cases, deaths, and vaccination data using SQL to uncover patterns and insights across countries and continents. Focus on data cleaning, integration, and analytical SQL techniques to extract key metrics.
