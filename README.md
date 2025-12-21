@@ -25,4 +25,4 @@ Explore global COVID-19 trends by analyzing cases, deaths, and vaccination data 
   * Analytical insights highlighting COVID-19 trends and vaccination progress.
 * **Technical Practice:** Demonstrates proficiency in SQL scripting, data manipulation, and exploratory data analysis (EDA).
 * **File:** `SQL_Project.ipynb` — contains full workflow from data import to analysis and visualization.
-* Tableau link: https://public.tableau.com/views/CovidDashboard_17598062647270/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* Tableau link:https://public.tableau.com/views/CovidDashboard_17635904066070/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
